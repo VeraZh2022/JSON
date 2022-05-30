@@ -16,7 +16,7 @@
         },
             "Actual_result": "there aren’t white borders at widgets’s top and down",
             "Expected_result": "all widgets have around white borders",
-            "Attachments": "Hgrid_data001.png, grid_data002.png"
+            "Attachments": "grid_data001.png, grid_data002.png"
          
     }
       
