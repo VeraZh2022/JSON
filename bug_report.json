@@ -6,7 +6,8 @@
         "Priority": "low",
         "Environments": {
             "1": "Google Pixel 5 API 31 (Android studio emulator)",
-            "2": "Pixel 4, Android 11"
+            "2": "Pixel 4",
+            "3": "Android 11"
         },
         "Precondition": "verify you have one empty window on the device",
         "Steps_to_reproduce": {
@@ -19,5 +20,5 @@
             "Attachments": "grid_data001.png, grid_data002.png"
          
     }
-      
+
 ]
